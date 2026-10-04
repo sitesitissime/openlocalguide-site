@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Centro Medicina Preventiva Rozzano">
+  <rect width="1200" height="800" fill="#e9f7f8"/>
+  <rect x="120" y="210" width="960" height="390" rx="18" fill="#fff"/>
+  <rect x="180" y="280" width="180" height="130" rx="8" fill="#d8e2e7"/>
+  <rect x="420" y="280" width="180" height="130" rx="8" fill="#d8e2e7"/>
+  <rect x="840" y="280" width="180" height="130" rx="8" fill="#d8e2e7"/>
+  <rect x="516" y="466" width="168" height="134" rx="8" fill="#006d70"/>
+  <path d="M644 285h38v88h88v38h-88v88h-38v-88h-88v-38h88v-88Z" fill="#0f8f9a"/>
+  <path d="M0 640h1200v160H0z" fill="#b6dde1"/>
+  <path d="M110 642c120-60 220-64 350-12 105 42 205 41 320-2 128-48 244-48 420 21v151H110V642Z" fill="#94cdd2"/>
+</svg>
